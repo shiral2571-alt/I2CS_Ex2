@@ -70,7 +70,8 @@
 
 כל הבדיקות רצות בהצלחה.
 
-![screenshot](![screenshot](screenshot_map.png))
+![screenshot](src/assignments/Ex2/screenshot_map.png)
+
 
 
 
