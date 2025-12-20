@@ -70,7 +70,8 @@
 
 כל הבדיקות רצות בהצלחה.
 
-![screenshot](צילום מסך 2025-12-20 220333.png)
+![screenshot](![screenshot](screenshot_map.png))
+
 
 
 שם הסטודנטית:
