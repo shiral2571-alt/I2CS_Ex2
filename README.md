@@ -70,7 +70,7 @@
 
 כל הבדיקות רצות בהצלחה.
 
-![screenshot](
+![screenshot](screenshotnew.png)
 
 
 
