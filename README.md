@@ -70,7 +70,7 @@
 
 כל הבדיקות רצות בהצלחה.
 
-![screenshot](screenshotnew.png)
+![Map Screenshot](src/assignments/Ex2/screenshotnew.png)
 
 
 
